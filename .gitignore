@@ -1,0 +1,11 @@
+# Données de coaching : confidentielles, JAMAIS versionnées.
+# Elles contiennent des données sensibles sur des tiers qui n'ont pas consenti.
+dossiers/*
+!dossiers/.gitkeep
+!dossiers/LISEZMOI.md
+
+# Réglages locaux Claude Code (permissions, état de session…)
+.claude/settings.local.json
+
+# Divers
+.DS_Store
