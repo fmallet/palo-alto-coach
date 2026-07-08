@@ -110,6 +110,17 @@ des tiers** (votre conjoint·e, un collègue…). Ce dossier est **exclu du vers
 Les contributions (justesse du modèle, clarté, éthique, exemples) sont bienvenues — voir
 [`CONTRIBUTING.md`](CONTRIBUTING.md) et le [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
 
+## Remerciements
+
+Ce projet n'existerait pas sans la transmission de deux formateurs auxquels je dois ma rencontre avec l'approche
+stratégique et systémique, et une immense gratitude :
+
+- **Olivier Millet** — <https://www.olivier-millet.com/>
+- **Claude Duterme** — <http://www.psychotherapeute-systemique.fr/>
+
+Merci à eux pour la rigueur, la finesse clinique et l'exigence éthique qu'ils m'ont transmises. Ce dépôt tente
+d'en être un prolongement fidèle ; les maladresses ou raccourcis qui subsistent sont, eux, entièrement les miens.
+
 ## Licence & auteur
 
 Distribué sous licence **MIT** — voir [`LICENSE`](LICENSE). Auteur : **Freddy Mallet**.
