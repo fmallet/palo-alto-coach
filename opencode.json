@@ -1,0 +1,18 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "username": "coach",
+  "default_agent": "coach",
+  "instructions": ["CLAUDE.md"],
+  "share": "disabled",
+  "snapshot": false,
+  "permission": {
+    "edit": "allow",
+    "bash": {
+      "*": "ask",
+      "ls *": "allow",
+      "git status": "allow",
+      "git diff *": "allow",
+      "git log *": "allow"
+    }
+  }
+}
