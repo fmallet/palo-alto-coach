@@ -8,7 +8,7 @@ Crée un nouveau dossier de suivi pour le pseudonyme fourni. $ARGUMENTS
 Étapes :
 1. Demande un pseudonyme si aucun argument n'est fourni (jamais le vrai nom).
 2. Vérifie que `dossiers/<pseudo>/` n'existe pas déjà. S'il existe, propose plutôt de
-   reprendre le dossier existant (commande `/seance <pseudo>`).
+   reprendre le dossier existant (commande `/alto-session <pseudo>`).
 3. Crée la structure suivante en copiant les gabarits de `templates/` :
    ```
    dossiers/<pseudo>/
@@ -19,4 +19,4 @@ Crée un nouveau dossier de suivi pour le pseudonyme fourni. $ARGUMENTS
    ```
 4. Remplis le `profil.md` avec le pseudonyme, la date du jour, et laisse les autres champs
    vides (à compléter au fil des séances).
-5. Confirme la création et propose de démarrer la première séance avec `/seance <pseudo>`.
+5. Confirme la création et propose de démarrer la première séance avec `/alto-session <pseudo>`.
