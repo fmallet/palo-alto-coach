@@ -6,13 +6,6 @@
   "share": "disabled",
   "snapshot": false,
   "permission": {
-    "edit": "allow",
-    "bash": {
-      "*": "ask",
-      "ls *": "allow",
-      "git status": "allow",
-      "git diff *": "allow",
-      "git log *": "allow"
-    }
+    "edit": "allow"
   }
 }
